@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: gray;
 }
 
 h1 {
@@ -8,6 +8,7 @@ h1 {
     text-shadow: 1px 1px 1px black;
     font-family: 'RedAlert', monospace;
     font-size: 45px;
+    color: chocolate;
 }
 
 p {
@@ -16,6 +17,8 @@ p {
     margin-left: 44%;
     font-family: 'RedAlert', monospace;
     font-size: 30px;
+    color: chocolate;
+    text-shadow: 1px 1px 1px black;
 }
 
   #maxwell {
@@ -85,5 +88,9 @@ iframe {
 }
 
 #a2 {
+    font-size: 40px;
+}
+
+#a3 {
     font-size: 40px;
 }
